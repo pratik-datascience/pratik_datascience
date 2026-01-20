@@ -1,7 +1,8 @@
 # 💫 About Me:
     I’m currently working on end-to-end data analytics projects using SQL, Python, Excel, and Power BI<br>
     I’m looking to collaborate on data analysis, dashboards, and real-world business problem projects<br>
-    I’m currently learning advanced SQL, statistics, and practical data storytelling<br>💬 Ask me about SQL queries, data cleaning, Power BI dashboards, and analytics projects<br>
+    I’m currently learning advanced SQL, statistics, and practical data storytelling
+    Ask me about SQL queries, data cleaning, Power BI dashboards, and analytics projects<br>
     Fun fact: I enjoy turning messy datasets into clear insights more than watching movies
 
 
